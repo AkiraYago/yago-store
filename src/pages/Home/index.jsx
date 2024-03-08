@@ -1,5 +1,5 @@
 // Components
-import Navbar from "../../components/Navbar";
+import StoreNavbar from "../../components/StoreNavbar";
 
 // Assets
 import logoImg from "/yagostore-logo.svg"
@@ -14,7 +14,7 @@ const Home = () => {
         - lista de la API de la tienda (searchBarProps)
       */
       }
-      <Navbar logoImg={logoImg} />
+      <StoreNavbar logoImg={logoImg} />
     </>
   );
 }
