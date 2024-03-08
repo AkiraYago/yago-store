@@ -1,0 +1,14 @@
+.navbar {
+  background-color: rgb(152, 255, 160);
+}
+
+.cartIcon {
+  background-color: yellowgreen;
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.cartIcon:hover {
+  background-color: orange;
+}

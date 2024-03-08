@@ -1,0 +1,10 @@
+.searchButton {
+  background-color: yellow;
+  color: black;
+  border: 1px solid gray;
+}
+
+.searchButton:hover {
+  background-color: yellowgreen;
+  border: 1px solid gray;
+}
